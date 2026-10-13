@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "qualys": {
+      "command": "qualys-cli-mcp"
+    }
+  }
+}

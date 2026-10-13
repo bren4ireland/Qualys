@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "qualys": {
+      "type": "stdio",
+      "command": "/home/codespace/.python/current/bin/qualys-cli-mcp"
+    }
+  }
+}
