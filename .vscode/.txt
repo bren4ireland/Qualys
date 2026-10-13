@@ -1,0 +1,1 @@
+run qualys-cli-configure and then qualys-cli-mcp
